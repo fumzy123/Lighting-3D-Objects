@@ -1,11 +1,11 @@
 Team Members
-Dayo Asaolu
-Fume Uviwe
+1. Dayo Asaolu
+2. Fume Uviwe
 
-![Alt text](https://github.com/DayoAsaolu/WebGl---Lights/blob/master/image.png?raw=true "Title")
+![Alt text](https://github.com/DayoAsaolu/WebGl---Lightings/blob/master/image.png?raw=true "Title")
 
 
-L to toggle left Light
-R to toggle Right Light
-T to toggle moving point light
-H to toggle head lamp
+1. L to toggle left Light
+2. R to toggle Right Light
+3. T to toggle moving point light
+4. H to toggle head lamp
